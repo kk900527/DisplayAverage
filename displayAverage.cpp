@@ -1,8 +1,7 @@
-/*============================================================================
-   Name     : lesson9part2.cpp
-   Author   : Sujan Bhandari
-   Date     : 11/16/2017
-   description: This program reads number form an input file and calculates the average
+/*
+   Author     : Sujan Bhandari
+   Date       : 11/16/2017
+   Description: This program reads number form an input file and calculates the average
                 of the numbers after checking for the validity of the number.This program
                 has a readfunction that reads in the input data and return boolean value of
                 true or false, the function totalvalue adds the total value of the valid input
